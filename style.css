@@ -1,0 +1,30 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border: 7px solid rgb(141, 4, 144);
+    background-color: rgba(149, 168, 40, 0.466);
+    color: rgb(141, 4, 144);
+}
+
+.text {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+p {
+    display: contents;
+}
+
+.btn_del {
+    text-align: right;
+}
+
+/* не сработал этот стиль */
